@@ -32,6 +32,7 @@ Collection of nice PHP packages
  name        | description           | links  
  ------------- |:-------------:| -----
   Illuminate Database      | The Illuminate Database component is a full database toolkit for PHP, providing an expressive query builder, ActiveRecord style ORM, and schema builder. It currently supports MySQL, Postgres, SQL Server, and SQLite. It also serves as the database layer of the Laravel PHP framework.  | [Github](https://github.com/illuminate/database) / [Packagist](https://packagist.org/packages/illuminate/database)
+   Idiorm      | A lightweight nearly-zero-configuration object-relational mapper and fluent query builder for PHP5. | [Github](https://github.com/j4mie/idiorm/) / [Packagist](https://packagist.org/packages/j4mie/idiorm) / [Docs](http://idiorm.readthedocs.org/en/latest/)
  Doctrine      | Doctrine 2 is an object-relational mapper (ORM) for PHP 5.3.2+ that provides transparent persistence for PHP objects. It sits on top of a powerful database abstraction layer (DBAL). One of its key features is the option to write database queries in a proprietary object oriented SQL dialect called Doctrine Query Language (DQL), inspired by Hibernates HQL. This provides developers with a powerful alternative to SQL that maintains flexibility without requiring unnecessary code duplication. | [Github](https://github.com/doctrine/doctrine2) / [Packagist](https://packagist.org/packages/doctrine/orm) / [Docs](http://www.doctrine-project.org/)
 
 ## Utility
@@ -39,7 +40,7 @@ Collection of nice PHP packages
  name        | description           | links  
  ------------- |:-------------:| -----
  Carbon| A simple API extension for DateTime with PHP 5.3+ | [Github](https://github.com/filp/whoops) / [Packagist](https://packagist.org/packages/nesbot/carbon) 
- Underscore PHP | It features a good hundred of methods for all kinds of types : strings, objects, arrays, functions, integers, etc., and provides a parsing class that help switching from one type to the other mid-course. Oh also it's growing all the time. The cherry on top ? It wraps nicely around native PHP functions meaning String::replace is actually a dynamic call to str_replace but with the benefit of allowed chaining and a finally consistant argument order (all functions in Underscore put the subject as the first argument, NO MATTER WHAT).| [Github](https://packagist.org/packages/anahkiasen/underscore-php) / [Packagist](https://github.com/Anahkiasen/underscore-php) / [Docs](http://anahkiasen.github.io/underscore-php/)
+ Underscore PHP | It features a good hundred of methods for all kinds of types : strings, objects, arrays, functions, integers, etc., and provides a parsing class that help switching from one type to the other mid-course. Oh also it's growing all the time. The cherry on top ? It wraps nicely around native PHP functions meaning String::replace is actually a dynamic call to str_replace but with the benefit of allowed chaining and a finally consistant argument order (all functions in Underscore put the subject as the first argument, NO MATTER WHAT).| [Github](https://github.com/Anahkiasen/underscore-php) / [Packagist](https://packagist.org/packages/anahkiasen/underscore-php) / [Docs](http://anahkiasen.github.io/underscore-php/)
 
 ## Error Handling 
 
