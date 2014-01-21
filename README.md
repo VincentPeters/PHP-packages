@@ -34,6 +34,13 @@ Collection of nice PHP packages
   Illuminate Database      | The Illuminate Database component is a full database toolkit for PHP, providing an expressive query builder, ActiveRecord style ORM, and schema builder. It currently supports MySQL, Postgres, SQL Server, and SQLite. It also serves as the database layer of the Laravel PHP framework.  | [Github](https://github.com/illuminate/database) / [Packagist](https://packagist.org/packages/illuminate/database)
    Idiorm      | A lightweight nearly-zero-configuration object-relational mapper and fluent query builder for PHP5. | [Github](https://github.com/j4mie/idiorm/) / [Packagist](https://packagist.org/packages/j4mie/idiorm) / [Docs](http://idiorm.readthedocs.org/en/latest/)
  Doctrine      | Doctrine 2 is an object-relational mapper (ORM) for PHP 5.3.2+ that provides transparent persistence for PHP objects. It sits on top of a powerful database abstraction layer (DBAL). One of its key features is the option to write database queries in a proprietary object oriented SQL dialect called Doctrine Query Language (DQL), inspired by Hibernates HQL. This provides developers with a powerful alternative to SQL that maintains flexibility without requiring unnecessary code duplication. | [Github](https://github.com/doctrine/doctrine2) / [Packagist](https://packagist.org/packages/doctrine/orm) / [Docs](http://www.doctrine-project.org/)
+ 
+## HTTP Requests
+
+ name        | description           | links  
+ ------------- |:-------------:| -----
+ Requests | Requests is a HTTP library written in PHP, for human beings. It is roughly based on the API from the excellent Requests Python library. Requests is ISC Licensed (similar to the new BSD license) and has no dependencies, except for PHP 5.2+. | [Github](https://github.com/rmccue/Requests) / [Packagist](https://packagist.org/packages/rmccue/requests) / [Docs](https://github.com/rmccue/Requests/blob/master/docs/README.md)
+ Buzz | Lightweight HTTP client | [Github](https://github.com/kriswallsmith/Buzz) / [Packagist](https://packagist.org/packages/kriswallsmith/buzz) 
 
 ## Utility
 
