@@ -47,5 +47,4 @@ Collection of nice PHP packages
  ------------- |:-------------:| -----
  Whoops| whoops is an error handler base/framework for PHP. Out-of-the-box, it provides a pretty error interface that helps you debug your web projects, but at heart it's a simple yet powerful stacked error handling system. | [Github](https://github.com/filp/whoops) / [Packagist](https://packagist.org/packages/filp/whoops) / [Docs](https://github.com/filp/whoops/wiki/API-Documentation)
  PHP-error| Better error reporting for PHP, and prettier too! | [Github](https://github.com/JosephLenton/PHP-Error) / [Packagist](https://packagist.org/packages/joseph-lenton/php-error) / [Docs](http://phperror.net/)
- 
- <!-- http://tutorialzine.com/2013/02/24-cool-php-libraries-you-should-know-about/ -->
+
