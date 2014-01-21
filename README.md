@@ -7,8 +7,7 @@ Collection of nice PHP packages
 
  name        | description           | links  
  ------------- |:-------------:| -----
- Twig      | Twig, the flexible, fast, and secure template language for PHP
-Twig is a template language for PHP, released under the new BSD license (code and documentation). Twig uses a syntax similar to the Django and Jinja template languages which inspired the Twig runtime environment. | [Github](https://github.com/fabpot/Twig) / [Packagist](https://packagist.org/packages/twig/twig) / [Docs](http://twig.sensiolabs.org/documentation)
+ Twig      | Twig, the flexible, fast, and secure template language for PHP. Twig is a template language for PHP, released under the new BSD license (code and documentation). Twig uses a syntax similar to the Django and Jinja template languages which inspired the Twig runtime environment. | [Github](https://github.com/fabpot/Twig) / [Packagist](https://packagist.org/packages/twig/twig) / [Docs](http://twig.sensiolabs.org/documentation)
  Plates      | Plates is a native PHP template system that’s fast, easy to use and easy to extend. It’s inspired by the excellent Twig template engine and tries to bring modern template language functionality to native PHP templates. Plates is designed for developers who prefer to use native PHP templates over compiled templates, such as Twig or Smarty.  | [Github](https://github.com/php-loep/Plates) / [Packagist](https://packagist.org/packages/league/plates) / [Docs](http://platesphp.com/)
 
 ## Mirco Frameworks
