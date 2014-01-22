@@ -58,10 +58,10 @@ Collection of nice PHP packages
  PHP-error| Better error reporting for PHP, and prettier too! | [Github](https://github.com/JosephLenton/PHP-Error) / [Packagist](https://packagist.org/packages/joseph-lenton/php-error) / [Docs](http://phperror.net/)
   Ubench | Ubench is a micro library for benchmarking your PHP code. It monitors execution time and memory usage.  | [Github](https://github.com/devster/ubench) / [Packagist](https://packagist.org/packages/devster/ubench) 
   
-  ## Validation
+## Validation
 
  name        | description           | links  
  ------------- |:-------------:| -----
- Respect Validation| The most awesome validation engine ever created for PHP. Fluent/Chained builders like ´v::numeric()->positive()->between(1, 256)->validate($myNumber)´. Informative, awesome exceptions. More than 30 fully tested validators | [Github](https://github.com/Respect/Validation) / [Packagist](https://packagist.org/packages/respect/validation) / [Docs](http://documentup.com/Respect/Validation/)
+ Respect Validation| The most awesome validation engine ever created for PHP. Fluent/Chained builders like `v::numeric()->positive()->between(1, 256)->validate($myNumber)`. Informative, awesome exceptions. More than 30 fully tested validators | [Github](https://github.com/Respect/Validation) / [Packagist](https://packagist.org/packages/respect/validation) / [Docs](http://documentup.com/Respect/Validation/)
  Iluminate Validation| Subtree split of the Illuminate Validation component | [Github](https://github.com/illuminate/validation) / [Packagist](https://packagist.org/packages/illuminate/validation) / [Docs](http://laravel.com/docs/validation)
 
