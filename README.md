@@ -48,11 +48,20 @@ Collection of nice PHP packages
  ------------- |:-------------:| -----
  Carbon| A simple API extension for DateTime with PHP 5.3+ | [Github](https://github.com/filp/whoops) / [Packagist](https://packagist.org/packages/nesbot/carbon) 
  Underscore PHP | It features a good hundred of methods for all kinds of types : strings, objects, arrays, functions, integers, etc., and provides a parsing class that help switching from one type to the other mid-course. Oh also it's growing all the time. The cherry on top ? It wraps nicely around native PHP functions meaning String::replace is actually a dynamic call to str_replace but with the benefit of allowed chaining and a finally consistant argument order (all functions in Underscore put the subject as the first argument, NO MATTER WHAT).| [Github](https://github.com/Anahkiasen/underscore-php) / [Packagist](https://packagist.org/packages/anahkiasen/underscore-php) / [Docs](http://anahkiasen.github.io/underscore-php/)
+  Goutte | Goutte is a screen scraping and web crawling library for PHP. Goutte provides a nice API to crawl websites and extract data from the HTML/XML responses. | [Github](https://github.com/fabpot/Goutte) / [Packagist](https://packagist.org/packages/fabpot/goutte) 
 
-## Error Handling 
+## Error Handling / Debugging
 
  name        | description           | links  
  ------------- |:-------------:| -----
  Whoops| whoops is an error handler base/framework for PHP. Out-of-the-box, it provides a pretty error interface that helps you debug your web projects, but at heart it's a simple yet powerful stacked error handling system. | [Github](https://github.com/filp/whoops) / [Packagist](https://packagist.org/packages/filp/whoops) / [Docs](https://github.com/filp/whoops/wiki/API-Documentation)
  PHP-error| Better error reporting for PHP, and prettier too! | [Github](https://github.com/JosephLenton/PHP-Error) / [Packagist](https://packagist.org/packages/joseph-lenton/php-error) / [Docs](http://phperror.net/)
+  Ubench | Ubench is a micro library for benchmarking your PHP code. It monitors execution time and memory usage.  | [Github](https://github.com/devster/ubench) / [Packagist](https://packagist.org/packages/devster/ubench) 
+  
+  ## Validation
+
+ name        | description           | links  
+ ------------- |:-------------:| -----
+ Respect Validation| The most awesome validation engine ever created for PHP. Fluent/Chained builders like ´v::numeric()->positive()->between(1, 256)->validate($myNumber)´. Informative, awesome exceptions. More than 30 fully tested validators | [Github](https://github.com/Respect/Validation) / [Packagist](https://packagist.org/packages/respect/validation) / [Docs](http://documentup.com/Respect/Validation/)
+ Iluminate Validation| Subtree split of the Illuminate Validation component | [Github](https://github.com/illuminate/validation) / [Packagist](https://packagist.org/packages/illuminate/validation) / [Docs](http://laravel.com/docs/validation)
 
