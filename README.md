@@ -50,6 +50,7 @@ Collection of nice PHP packages
  Carbon| A simple API extension for DateTime with PHP 5.3+ | [Github](https://github.com/filp/whoops) / [Packagist](https://packagist.org/packages/nesbot/carbon) 
  Underscore PHP | It features a good hundred of methods for all kinds of types : strings, objects, arrays, functions, integers, etc., and provides a parsing class that help switching from one type to the other mid-course. Oh also it's growing all the time. The cherry on top ? It wraps nicely around native PHP functions meaning String::replace is actually a dynamic call to str_replace but with the benefit of allowed chaining and a finally consistant argument order (all functions in Underscore put the subject as the first argument, NO MATTER WHAT).| [Github](https://github.com/Anahkiasen/underscore-php) / [Packagist](https://packagist.org/packages/anahkiasen/underscore-php) / [Docs](http://anahkiasen.github.io/underscore-php/)
   Goutte | Goutte is a screen scraping and web crawling library for PHP. Goutte provides a nice API to crawl websites and extract data from the HTML/XML responses. | [Github](https://github.com/fabpot/Goutte) / [Packagist](https://packagist.org/packages/fabpot/goutte) 
+  ColorJizz-PHP | Classes for manipulating colors, converting to different formats and finding color harmonies | [Github](https://github.com/mikeemoo/ColorJizz-PHP) / [Packagist](https://packagist.org/packages/mischiefcollective/colorjizz) 
 
 ## Error Handling / Debugging
 
@@ -71,3 +72,4 @@ Collection of nice PHP packages
  name        | description           | links  
  ------------- |:-------------:| -----
  Gaufrette| Gaufrette is a PHP5 library that provides a filesystem abstraction layer. | [Github](https://github.com/KnpLabs/Gaufrette) / [Packagist](https://packagist.org/packages/knplabs/gaufrette)
+  Upload| File uploads with validation and storage strategies | [Github](https://github.com/codeguy/Upload) / [Packagist](https://packagist.org/packages/codeguy/upload)
