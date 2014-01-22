@@ -9,6 +9,7 @@ Collection of nice PHP packages
  ------------- |:-------------:| -----
  Twig      | Twig, the flexible, fast, and secure template language for PHP. Twig is a template language for PHP, released under the new BSD license (code and documentation). Twig uses a syntax similar to the Django and Jinja template languages which inspired the Twig runtime environment. | [Github](https://github.com/fabpot/Twig) / [Packagist](https://packagist.org/packages/twig/twig) / [Docs](http://twig.sensiolabs.org/documentation)
  Plates      | Plates is a native PHP template system that’s fast, easy to use and easy to extend. It’s inspired by the excellent Twig template engine and tries to bring modern template language functionality to native PHP templates. Plates is designed for developers who prefer to use native PHP templates over compiled templates, such as Twig or Smarty.  | [Github](https://github.com/php-loep/Plates) / [Packagist](https://packagist.org/packages/league/plates) / [Docs](http://platesphp.com/)
+  Mustache      | Mustache is a simple, logic-less template engine. We call it "logic-less" because there are no if statements, else clauses, or for loops. Instead there are only tags. Some tags are replaced with a value, some with nothing, and others with a series of values.  | [Github](https://github.com/bobthecow/mustache.php) / [Packagist](https://packagist.org/packages/mustache/mustache) / [Docs](https://github.com/bobthecow/mustache.php/wiki)
 
 ## Routing
 
@@ -64,4 +65,9 @@ Collection of nice PHP packages
  ------------- |:-------------:| -----
  Respect Validation| The most awesome validation engine ever created for PHP. Fluent/Chained builders like `v::numeric()->positive()->between(1, 256)->validate($myNumber)`. Informative, awesome exceptions. More than 30 fully tested validators | [Github](https://github.com/Respect/Validation) / [Packagist](https://packagist.org/packages/respect/validation) / [Docs](http://documentup.com/Respect/Validation/)
  Iluminate Validation| Subtree split of the Illuminate Validation component | [Github](https://github.com/illuminate/validation) / [Packagist](https://packagist.org/packages/illuminate/validation) / [Docs](http://laravel.com/docs/validation)
+ 
+## Filesystem / Files
 
+ name        | description           | links  
+ ------------- |:-------------:| -----
+ Gaufrette| Gaufrette is a PHP5 library that provides a filesystem abstraction layer. | [Github](https://github.com/KnpLabs/Gaufrette) / [Packagist](https://packagist.org/packages/knplabs/gaufrette)
