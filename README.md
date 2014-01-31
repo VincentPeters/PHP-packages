@@ -73,3 +73,7 @@ Collection of nice PHP packages
  ------------- |:-------------:| -----
  Gaufrette| Gaufrette is a PHP5 library that provides a filesystem abstraction layer. | [Github](https://github.com/KnpLabs/Gaufrette) / [Packagist](https://packagist.org/packages/knplabs/gaufrette)
   Upload| File uploads with validation and storage strategies | [Github](https://github.com/codeguy/Upload) / [Packagist](https://packagist.org/packages/codeguy/upload)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/VincentPeters/php-packages/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
