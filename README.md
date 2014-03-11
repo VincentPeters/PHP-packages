@@ -36,6 +36,12 @@ Collection of nice PHP packages
    Idiorm      | A lightweight nearly-zero-configuration object-relational mapper and fluent query builder for PHP5. | [Github](https://github.com/j4mie/idiorm/) / [Packagist](https://packagist.org/packages/j4mie/idiorm) / [Docs](http://idiorm.readthedocs.org/en/latest/)
  Doctrine      | Doctrine 2 is an object-relational mapper (ORM) for PHP 5.3.2+ that provides transparent persistence for PHP objects. It sits on top of a powerful database abstraction layer (DBAL). One of its key features is the option to write database queries in a proprietary object oriented SQL dialect called Doctrine Query Language (DQL), inspired by Hibernates HQL. This provides developers with a powerful alternative to SQL that maintains flexibility without requiring unnecessary code duplication. | [Github](https://github.com/doctrine/doctrine2) / [Packagist](https://packagist.org/packages/doctrine/orm) / [Docs](http://www.doctrine-project.org/)
  
+ ## Image Manipulation
+
+ name        | description           | links  
+ ------------- |:-------------:| -----
+ Intervention Image      | Image handling and manipulation library with support for Laravel 4 integration | [Github](https://github.com/Intervention/image) / [Packagist](https://packagist.org/packages/intervention/image) / [Docs](http://intervention.olivervogel.net/image)
+ 
 ## HTTP Requests
 
  name        | description           | links  
